@@ -42,7 +42,7 @@ public class JMSProducer {
             //通过消息生产者发出消息
             messageProducer.send(message);
         }
-
+//1231231231231321
     }
 
     public static void main(String[] args) {
