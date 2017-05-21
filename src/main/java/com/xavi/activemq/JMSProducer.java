@@ -18,6 +18,7 @@ import javax.jms.*;
  */
 public class JMSProducer {
     //111111111111111111111111111111111111
+    //2222222222222222222222222222222222222222222222
     //默认连接用户名
     private static final String USERNAME = "admin";//ActiveMQConnection.DEFAULT_USER;
     //默认连接密码
@@ -42,7 +43,7 @@ public class JMSProducer {
             //通过消息生产者发出消息
             messageProducer.send(message);
         }
-//1231231231231321
+
     }
 
     public static void main(String[] args) {
@@ -75,6 +76,7 @@ public class JMSProducer {
             sendMessage(session, messageProducer);
 
             session.commit();
+            //hahahahha
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
