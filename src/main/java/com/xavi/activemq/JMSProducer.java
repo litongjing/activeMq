@@ -17,7 +17,7 @@ import javax.jms.*;
  * Created by xavi on 2017/5/17.
  */
 public class JMSProducer {
-
+    //2222222222222222222222222222222222222222222222
     //默认连接用户名
     private static final String USERNAME = "admin";//ActiveMQConnection.DEFAULT_USER;
     //默认连接密码
