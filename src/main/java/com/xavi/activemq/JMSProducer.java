@@ -75,7 +75,7 @@ public class JMSProducer {
             sendMessage(session, messageProducer);
 
             session.commit();
-
+            //hahahahha
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
