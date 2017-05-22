@@ -44,6 +44,7 @@ public class JMSProducer {
             messageProducer.send(message);
         }
      //111111111111111111111
+        //122222
     }
 
     public static void main(String[] args) {
