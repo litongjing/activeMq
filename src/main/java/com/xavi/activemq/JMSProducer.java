@@ -48,7 +48,7 @@ public class JMSProducer {
     }
 
     public static void main(String[] args) {
-        //11123
+        //111234
         System.out.println(System.getProperty("java.class.path"));//
         //连接工厂
         ConnectionFactory connectionFactory;
