@@ -52,10 +52,7 @@ public class JMSProducer {
         //123ab
         //2
         //675758588
-        //12345
         //cabcdefg1abc
-        //123
-        //q
         System.out.println(System.getProperty("java.class.path"));//
         //连接工厂
         ConnectionFactory connectionFactory;
