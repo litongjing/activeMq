@@ -49,7 +49,7 @@ public class JMSProducer {
 
     public static void main(String[] args) {
         //111234561231232178
-        //1
+        //12
         //2
         //cabcdefg1abc
         System.out.println(System.getProperty("java.class.path"));//
